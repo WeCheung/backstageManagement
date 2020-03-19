@@ -1,0 +1,68 @@
+.header{
+  //background: white;
+
+  .header-top{
+    height: 40px;
+    line-height: 30px;
+    padding: 5px;
+    background: white;
+    user-select: none;
+    .top-box{
+      float: right;
+      height: 100%;
+      line-height: 30px;
+      margin-right: 100px;
+      font-size: 18px;
+
+      button{
+        margin-left: 20px;
+        border: none;
+        outline: none;
+        background-color: white;
+        color: skyblue;
+        cursor: pointer;
+      }
+    }
+  }
+
+  .header-bottom{
+    height: 40px;
+    line-height: 30px;
+    padding: 5px;
+    background: white;
+    .header-title{
+      float: left;
+      height: 100%;
+      line-height: 30px;
+      margin-left: 90px;
+      font-size: 23px;
+      user-select: none;
+    }
+    .weather-box{
+      float: right;
+      height: 100%;
+      line-height: 30px;
+      margin-right: 100px;
+      font-size: 14px;
+      user-select: none;
+
+      span{
+        margin-left: 20px;
+        color: rgb(171, 168, 172);
+      }
+
+      img{
+        margin-left: 20px;
+      }
+    }
+  }
+
+  .triangle{
+    width: 0;
+    height: 0;
+    margin-left: 105px;
+    border-width: 20px;
+    border-style: solid;
+    border-color: white transparent transparent transparent;
+  }
+}

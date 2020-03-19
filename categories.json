@@ -1,0 +1,12 @@
+{"_id":{"$oid":"5e0f355def935408883bdc49"},"name":"seed","classId":"0","__v":0}
+{"_id":{"$oid":"5e0f3564ef935408883bdc4a"},"name":"00","classId":"0","__v":0}
+{"_id":{"$oid":"5e0f3589ef935408883bdc4c"},"name":"自由高达","classId":"seed","__v":0}
+{"_id":{"$oid":"5e0f3593ef935408883bdc4d"},"name":"正义高达","classId":"seed","__v":0}
+{"_id":{"$oid":"5e0f359cef935408883bdc4e"},"name":"能天使","classId":"00","__v":0}
+{"_id":{"$oid":"5e0f3603ef935408883bdc52"},"name":"z","classId":"0","__v":0}
+{"_id":{"$oid":"5e0f3607ef935408883bdc53"},"name":"zz","classId":"0","__v":0}
+{"_id":{"$oid":"5e0f360def935408883bdc54"},"name":"unicorn","classId":"0","__v":0}
+{"_id":{"$oid":"5e0f37bcd5483e08fc854318"},"name":"强袭高达","classId":"seed","__v":0}
+{"_id":{"$oid":"5e0f37c3d5483e08fc854319"},"name":"M1异端","classId":"seed","__v":0}
+{"_id":{"$oid":"5e0f37efd5483e08fc85431b"},"name":"蓝色异端高达","classId":"seed","__v":0}
+{"_id":{"$oid":"5e1dc9f30a5b7f28088f60e7"},"name":"UC0079","classId":"0"}

@@ -1,0 +1,56 @@
+// 添加商品页面
+.addItem{
+  .title{
+    height: 50px;
+    padding: 0 20px;
+    border-bottom: 1px solid rgb(230, 230, 230);
+    .backButton{
+      width: 50px;
+      border: none;
+      outline: none;
+    }
+
+    span{
+      font-size: 18px;
+      font-weight: 500;
+      user-select: none;
+    }
+  }
+}
+
+// 商品管理主页
+.managerContent{
+  padding-top: 20px;
+  margin-top: 20px;
+  border-top: 1px solid rgb(241,241,241);
+}
+
+// 商品详情页
+.itemInfo{
+  .header{
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 10px;
+    .my-button{
+      margin-right: 5px;
+      color: rgb(130, 210, 255);
+    }
+  }
+  .detailsTitle{
+    //font-size: 20px;
+    font-weight: bold;
+  }
+  .detailsInfo{
+    p{
+      margin: 0;
+    }
+  }
+}
+
+.cannotSelect{
+  user-select: none;
+}
+
+.managerButton{
+  color: rgb(134, 210, 255);
+}
